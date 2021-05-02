@@ -9,7 +9,7 @@
 
 ---
 
-javascript
+```js
 const analiMtzart = {
    aboutMe: "Diseñadora gráfica que encontró en UX/UI un click inmediato para unir lo que más le gusta:
              resolver problemas de comunicación y llevarlo con más potencial a las nuevas tecnologías
@@ -30,7 +30,7 @@ const analiMtzart = {
       others: ["Figma", "git", "GitHub", "Trello"],
    }
 };
-
+```
 ---
 
 <h2>ESTADÍSTICAS</h2>
